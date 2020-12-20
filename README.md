@@ -1,4 +1,4 @@
-# Using Pyro and stochastic variational inference to fit a multilevel mixture model.
+# Using stochastic variational inference in Pyro to fit a multilevel mixture model.
 
 This notebook fits a hierarchical mixture model to simulated data using Pyro.  You can launch the notebook on Google Colab using this button:
 
