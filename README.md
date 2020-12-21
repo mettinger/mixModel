@@ -7,4 +7,8 @@ This notebook fits a hierarchical mixture model to simulated data using Pyro.  Y
 
 ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
 
+$\alpha = \beta$
+
+
+
 
